@@ -1,0 +1,85 @@
+/* 
+Template: Travel with Benjamin
+Author: Benjamin Amoussou
+Date: 1/11/2021  
+*/
+
+body{
+    margin-top: 0em;
+    margin-right: 4em;
+    margin-bottom: 2em;
+    margin-left: 4em;
+    background-color: darkseagreen;
+
+}
+
+header {
+    background-color: cadetblue;
+    border: solid 2px black;
+    border-radius: 22px;
+}
+
+nav a {
+    color: black;
+    font: bold;
+}
+nav {
+    background-color: gray;
+    line-height: 200%;
+    display: block;
+    text-align: center;
+    font-size: 20pt;
+    font-family: Verdana, sans-serif;
+    font-weight: bold;
+}
+nav li {
+    display: inline;
+    list-style-type: none;
+    padding-right: 40px;
+}
+    
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+#plane {
+    width: 80%;
+    height: 300px;
+}
+
+#mypicture {
+    width: 17em;
+    height: 25em;
+}
+
+#bio {
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer {
+	margin-top: 1em;
+	padding: 1em ;
+	border: solid 3px black;
+	border-radius: 22px;
+	clear: both;
+	font-weight: bold;
+	text-align: center;
+}
+
+em {
+	font-weight: bold;
+	font-size: 16pt;
+}
+
+
+
