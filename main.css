@@ -81,5 +81,13 @@ em {
 	font-size: 16pt;
 }
 
+/* Texas style */
 
+#texastext{
+    text-align: center;
+}
 
+#galleria{
+    width: 35em;
+    height: 25em;
+}
